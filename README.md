@@ -20,6 +20,13 @@ Check out the live version of the Team Name Generator here: [Live Demo](https://
 ![image](https://github.com/user-attachments/assets/d71ec88d-9879-4ead-8c50-f58e5cd2afd6)
 ![image](https://github.com/user-attachments/assets/5b754044-288b-4c1b-a9d6-1d61fe4c0d95)
 
+### On smaller displays
+![iPad Air](https://github.com/user-attachments/assets/18e0ff28-15f4-4e95-97c5-2781988160c1)
+![iPhone 14 Pro Max](https://github.com/user-attachments/assets/6c659996-6064-4bd9-bedf-22b3b2bb4fa0)
+![Samsung Galaxy S20 Ultra](https://github.com/user-attachments/assets/25f2f695-3b38-4eab-be96-5ec9c13e6ff6)
+![Small_display](https://github.com/user-attachments/assets/4f2a6266-d705-4347-a80b-44f1b1c60e42)
+
+
 
 ## 🛠️ Technologies Used
 
