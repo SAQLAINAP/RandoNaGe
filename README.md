@@ -16,6 +16,11 @@ Welcome to the **Team Name Generator for Hackathons**! This project is designed 
 
 Check out the live version of the Team Name Generator here: [Live Demo](https://your-live-site-url.com) 🌍
 
+## Some Snapshots
+![image](https://github.com/user-attachments/assets/d71ec88d-9879-4ead-8c50-f58e5cd2afd6)
+![image](https://github.com/user-attachments/assets/5b754044-288b-4c1b-a9d6-1d61fe4c0d95)
+
+
 ## 🛠️ Technologies Used
 
 - **Frontend**: HTML, CSS, JavaScript, EJS
