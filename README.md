@@ -21,12 +21,22 @@ Check out the live version of the Team Name Generator here: [Live Demo](https://
 ![image](https://github.com/user-attachments/assets/5b754044-288b-4c1b-a9d6-1d61fe4c0d95)
 
 ### On smaller displays
-![iPad Air](https://github.com/user-attachments/assets/18e0ff28-15f4-4e95-97c5-2781988160c1)
-![iPhone 14 Pro Max](https://github.com/user-attachments/assets/6c659996-6064-4bd9-bedf-22b3b2bb4fa0)
-![Samsung Galaxy S20 Ultra](https://github.com/user-attachments/assets/25f2f695-3b38-4eab-be96-5ec9c13e6ff6)
-![Small_display](https://github.com/user-attachments/assets/4f2a6266-d705-4347-a80b-44f1b1c60e42)
 
+<div style="display: flex; justify-content: space-between; text-align: center;">
+    <div style="flex: 1; text-align: center;">
+        <img src="https://github.com/user-attachments/assets/6c659996-6064-4bd9-bedf-22b3b2bb4fa0" alt="iPhone 14 Pro Max" width="300" height="600">
+        <div>iPhone 14 Pro Max</div>
+    </div>
+</div>
 
+## Small Display
+<div style="text-align: center;">
+    <img src="https://github.com/user-attachments/assets/4f2a6266-d705-4347-a80b-44f1b1c60e42" alt="Small Display" width="300" height="500">
+</div>
+
+<div>
+    .KeyPad Screens - (200 X 300)
+</div>
 
 ## 🛠️ Technologies Used
 
