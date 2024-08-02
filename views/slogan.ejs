@@ -1,0 +1,12 @@
+<%- include("./partials/header.ejs") %>
+
+<h1>Slogan Generator</h1>
+<form action="/generate-slogan" method="POST">
+    <button type="submit" id="slogbut">Generate Slogan</button>
+</form>
+
+<% if(locals.slogan) { %>
+    <h2 class="slog"> <%= locals.slogan %></h2>
+<% } %>
+
+<%- include("./partials/footer.ejs") %>

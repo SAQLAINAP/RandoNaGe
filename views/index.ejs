@@ -1,0 +1,33 @@
+<%- include("./partials/header.ejs") %>
+
+<% if(locals.team) { %> 
+    <h1>
+        <%= locals.team %>
+    </h1>
+<% } else { %>
+    <h1>
+        Random Name Generator
+    </h1>
+<% } %>
+
+<button onclick="copyToClipboard()" class="button">Copy</button>
+
+<script>
+    function copyToClipboard() {
+        var textToCopy = document.querySelector("h1").innerText;
+        navigator.clipboard.writeText(textToCopy)
+            .then(function() {
+                alert("Copied to clipboard!");
+            })
+            .catch(function(error) {
+                console.error("Unable to copy to clipboard. Error:", error);
+            });
+    }
+</script>
+
+<form action="/submit" method="POST">
+    <input type="submit" value="Get Yo Cool Name" class="button">
+</form>
+
+<!-- <button id="direct"><a href="/slogan" style="text-decoration: none; margin-top: 20px;">Generate a Slogan for Your Team</a></button> -->
+<%- include("./partials/footer.ejs") %>
